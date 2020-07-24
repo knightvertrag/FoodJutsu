@@ -8,6 +8,7 @@
   },
   "author": "Anurag Mondal",
   "license": "MIT",
+  "repository": "https://github.com/knightvertrag/FoodJutsu",
   "dependencies": {
     "tailwindcss": "^1.4.6"
   }
